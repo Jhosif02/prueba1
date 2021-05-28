@@ -1,0 +1,51 @@
+*{
+	margin:5px;
+	padding:5px;
+}
+body{
+	background-color:#003333;
+    color:#ffffff;
+	border-radius:20px;
+}
+header
+{
+	height:75px;
+	background-color:red;
+	border-radius:20px;
+}
+nav{
+	background:orange;
+	height:50px;
+    border-radius:20px;
+}
+section{
+	height:380px;
+	background:green;
+	width:800px;
+	float:left;
+	margin-left:5px;
+	border-radius:20px;
+	
+}
+aside{
+	height:380px;
+	background:pink;
+	width:460px;
+	float:right;
+	border-radius:20px;
+}
+footer{
+	background:yellow;
+	height:70px;
+	float:bellow;
+	border-radius:20px;
+	clear:both;
+}
+h1{
+	text-align:center;
+	font-size:30px;
+}
+h2{
+	text-align:center;
+	font-size:20px;
+}
